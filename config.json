@@ -1,0 +1,5 @@
+{
+    "ip":"0.0.0.0",
+    "connect_string":"Acc_Conn/Pass_Conn@//IP_Conn:1521/PDB_Conn",
+    "table_name_30_days":"HYBRIS.GETALLINFO_BYORDER_1M"
+}
